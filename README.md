@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, me chamo Fernando Holanda 👋
 
-<!--
-**FeHowork/FeHowork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hobbies
+- Ler;
+- Viajar;
+- Tocar instrumentos músicais;
 
-Here are some ideas to get you started:
+## Formação
+- UFC
+- GROWDEV
+- UDEMY
+## Experiencia Profissional
+- Criativo Vidraçaria - Auxiliar Administrativo
+- Cervejaria Turatti - Auxiliar Administrativo
+- Go360 - Gerente Financeiro
+- Cervejaria Turatti - Assistente Financeiro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens
+[![Icone Python](https://img.icons8.com/?size=50&id=13441&format=png&color=000000)](https://www.python.org/) [![Icone Javascript](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)](https://www.javascript.com/)
+
+## Contatos
+
+[![Icone Linkedin](https://img.icons8.com/?size=50&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/fernando-holanda-feho-42b488343/)
