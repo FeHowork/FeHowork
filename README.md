@@ -7,6 +7,7 @@
 - Estudar;
 
 ## Formação
+- ESTÁCIO (Graduando em Desenvolvimento Web Full Stack)
 - UFC (Graduando em Economia)
 - GROWDEV (Engenheiro de Dados - Web Full Stack)
 - UDEMY (Cursos Diversos)
